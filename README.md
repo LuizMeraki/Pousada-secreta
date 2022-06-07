@@ -1,5 +1,5 @@
 # Pousada secreta
-Este é um site de uma pousada que exibe informações da mesma como: sobre, quartos, contatos. Com layout intuitivo e elegante as informações são bem apresentadas. Site não responsivo.
+Este é um site de uma pousada que exibe informações da mesma como: quartos, sobre, rotas, contatos. Com um layout intuitivo e elegante as informações são bem apresentadas. Site não responsivo.
 
 ![Captura de tela 2022-06-07 121254](https://user-images.githubusercontent.com/75648386/172417391-0024e678-34d4-4e11-8660-7867706c01c7.png)
 ![Captura de tela 2022-06-07 121425](https://user-images.githubusercontent.com/75648386/172417426-2714927f-1fa7-48d8-a5c0-48a4d1b4c431.png)
