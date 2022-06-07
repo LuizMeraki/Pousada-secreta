@@ -1,0 +1,263 @@
+* {box-sizing: border-box;}
+
+body {
+     font-family: Source Sans Pro;
+     width: 100%;
+     height: 100%;
+     margin: 0;
+     padding: 0;
+}
+
+header, main, footer, section {
+     width: 100%;
+}
+
+/* MENU */
+
+header {
+     position: fixed;
+     background-color: #fff;
+     border-bottom: 0.5px solid #616161;
+}
+
+.menu {
+     width: 80%;
+     margin: 0 auto;
+     padding: 20px 0;
+}
+
+.box-link-principal-menu {
+     display: inline;
+}
+
+.box-link-principal-menu a, .box-link-navegacao-menu a {
+     color: #444444;
+     font-size: 23px;
+     text-decoration: none;
+}
+
+.box-link-principal-menu a {
+     font-weight: 600;
+}
+
+.box-link-principal-menu span {
+     color: #49997c;
+}
+
+.box-link-navegacao-menu {
+     float: right;
+}
+
+.box-link-navegacao-menu a {
+     font-size: 17px;
+     margin: 0;
+     padding: 10% 17px;
+}
+
+.box-link-navegacao-menu a:hover {
+     color: #fff;
+     background-color: #49997c;
+     transition: 0.5s;
+}
+
+/* CAPA PRINCIPAL */
+
+.capa-principal {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 600px;
+     background-image: url('/Curso Front-end/Projetos/pousada-web/assets/img-fundo.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+}
+
+.conteudo-capa {
+     text-align: center;
+     width: 50%;
+     max-width: 500px;
+     padding: 30px 0;
+     background-color: #009980ad;
+     border: 0.5px solid #fff;
+     border-radius: 5px;
+}
+
+.conteudo-capa p, h1{
+     color: #fff;
+     font-size: 26px;
+     margin: 0;
+}
+
+h1 {
+     font-size: 55px;
+     font-weight: bold;
+     margin-bottom: 35px;
+}
+
+/* SEÇÃO QUARTOS */
+
+.secao-divisao {
+     width: 100%;
+     margin-bottom: 50px;
+}
+
+.secao {
+     text-align: center;
+     width: 80%;
+     max-width: 1200px;
+     margin: 80px auto 0 auto;
+}
+
+.secao p {
+     color: #3f3f3f;
+     font-size: 17px;
+}
+
+h2 {
+     color: #3f3f3f;
+     font-size: 32px;
+     font-weight: normal;
+     margin-top: 0;
+}
+
+.secao-imagens {
+     width: 100%;
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     align-items: center;
+     justify-content: center;
+}
+
+
+.box-quarto {
+     width: 30%;
+     height: 265px;
+     margin: 0 10px;
+     display: block;
+     border-bottom: 2px solid #38be8b;
+     transition: 0.3s;
+}
+
+.box-quarto:hover {
+     width: 32%;
+     box-shadow: 0 0 5px 1px rgb(110, 110, 110);
+     transition: 0.8s;
+}
+
+.box-quarto img {
+     width: 100%;
+     margin-bottom: 10px;
+}
+
+.box-quarto a {
+     color: #3f3f3f;
+     font-size: 19px;
+     font-weight: 600;
+     text-decoration: none;
+}
+
+
+/* SEÇÃO ROTA */
+
+.secao-rota {
+     text-align: center;
+     width: 100%;
+     margin: 80px auto 0 auto;
+}
+
+.mapa-pousada {
+     margin-top: 45px;
+}
+
+/* SEÇÃO SOBRE */
+
+.box-informacoes {
+     width: 100%;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+     align-items: center;
+}
+
+.descricao {
+     width: 40%;
+     height: 100px;
+     margin: 40px 20px;
+}
+
+.descricao img {
+     width: 20%;
+     height: 100%;
+}
+
+
+.descricao h3, .descricao p {
+     margin: 0;
+     text-align: left;
+}
+
+.descricao p {
+     width: 80%;
+     float: left;
+     margin-top: 20px;
+     display: inline;
+}
+
+/* SEÇÃO RODAPÉ*/
+
+footer {
+     width: 100%;
+     margin-top: 50px;
+     background-color: #49997c;
+}
+
+.area-rodape {
+     width: 85%;
+     margin: 0 auto;
+     padding: 20px 0;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     align-items: center;
+     border-bottom: 2px solid #265041;
+}
+
+.area-rodape span, .area-rodape a, .area-rodape p, .rodape-copyright span{
+     color: #fff;
+}
+
+.box-rodape-info {
+     display: flex;
+     align-items: center;
+     width: 230px;
+     margin: 10px 20px;
+}
+
+.box-rodape-info span {
+     width: 200px;
+     font-size: 22px;
+     font-weight: 700;
+}
+
+.box-rodape-info img {
+     width: 40px;
+     height: 40px;
+     margin-right: 10px
+}
+
+.box-rodape-info a {
+     text-decoration: none;
+}
+
+.box-rodape-info a:hover {
+     color: #265041;
+}
+
+.rodape-copyright {
+     font-size: 18px;
+     text-align: center;
+     padding: 30px 0 ;
+     background-color: #49997c;
+}

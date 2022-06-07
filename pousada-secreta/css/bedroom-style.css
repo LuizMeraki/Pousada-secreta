@@ -1,0 +1,44 @@
+/* CAPA PRINCIPAL */
+
+* {box-sizing: border-box;}
+
+.capa-principal {
+     height: 380px;
+}
+
+/* IMAGENS QUARTO */
+
+.box-imagens-quartos {
+     width: 100%;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     align-items: center;
+}
+
+.box-imagens-quartos img {
+     max-width: 30%;
+     max-height: 30%;
+     margin: 3px;
+}
+
+/* LISTA DESCRIÇÃO DOS QUARTOS */
+
+.lista-descricao-quarto {
+     width: 100%;
+     margin: 70px auto;
+}
+
+.lista-descricao-quarto ul {
+     color: #2b2b2b;
+     margin: 35px auto;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     align-items: center;
+     align-content:space-around;
+}
+
+.lista-descricao-quarto ul li {
+     margin: 5px 40px;
+}
