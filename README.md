@@ -7,6 +7,6 @@ Este é um site de uma pousada que exibe informações da mesma como: quartos, s
 ![Captura de tela 2022-06-07 121513](https://user-images.githubusercontent.com/75648386/172417440-ba7b7f7c-881b-45f7-909b-05314b2e5507.png)
 ![Captura de tela 2022-06-07 121536](https://user-images.githubusercontent.com/75648386/172417444-0138690c-5fb9-4fdf-83b7-1a67123b8451.png)
 
-# Página de quartos (zoom: 80%) :
+# Página dos quartos (zoom: 80%) :
 
 ![Captura de tela 2022-06-07 121623](https://user-images.githubusercontent.com/75648386/172417606-4920c05b-8e68-4e85-9f2e-691f7dd632f6.png)
