@@ -49,7 +49,7 @@ Link: <a href="https://luizmeraki.github.io/Pousada-secreta/" target="_blank">Po
 
 <br>
 
-### Página dos quartos:
+### Página dos quartos
 
 ![Captura de tela 2022-06-07 121623](https://user-images.githubusercontent.com/75648386/172417606-4920c05b-8e68-4e85-9f2e-691f7dd632f6.png)
 
