@@ -67,7 +67,7 @@ header {
      justify-content: center;
      align-items: center;
      height: 600px;
-     background-image: url('/Curso Front-end/Projetos/pousada-web/assets/img-fundo.jpg');
+     background-image: url('../assets/img-fundo.jpg');
      background-repeat: no-repeat;
      background-size: cover;
      background-attachment: fixed;
