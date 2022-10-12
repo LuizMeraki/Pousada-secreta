@@ -2,6 +2,10 @@
 
 <br>
 
+![pousada-secreta](https://user-images.githubusercontent.com/75648386/195429941-d3bc4a55-ce45-4d57-ac08-439855045dd1.gif)
+
+<br>
+
 <div align="center">
   <a href="#sobre">Sobre</a> -
   <a href="#tecnologias">Tecnologias</a> -
