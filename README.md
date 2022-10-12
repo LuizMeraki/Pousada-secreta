@@ -17,6 +17,9 @@
 
 <p>Esse projeto foi para fins didáticos, apenas para colocar em prática os conhecimentos que obtive em meu curso.</p>
 
+### Entre no site da Pousada Secreta
+
+Link: <a href="https://luizmeraki.github.io/Pousada-secreta/" target="_blank">Pousada Secreta</a>
 <br>
 
 ## Tecnologias
